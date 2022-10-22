@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Mpho
+## 👋🏾 Hello! I'm Mpho 🙂
 
 I'm a software developer currently living in Pretoria, South Africa.
 
