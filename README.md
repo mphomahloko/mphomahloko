@@ -9,13 +9,9 @@ I'm a software developer currently living in Pretoria, South Africa.
   </a>
 </p>
 
-### ✌️ About Me
+### ✌🏾️ About Me
 
 - 🌱 I’m currently learning: Java
-<!--
-- 📖 I’m currently working on: Moments
--->
-- 📫 How to reach me: LinkedIn or Email
 
 #### Github Stats
 
